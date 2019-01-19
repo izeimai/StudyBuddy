@@ -1,4 +1,6 @@
-# Project-One
+# Study Buddy
+
+https://izeimai.github.io/Project-One/
 
 ### This is a webapp to help students streamline the process of organizing study meetups.
 
@@ -11,6 +13,6 @@ This was the first group project assigned during the Coding BootCamp class in De
 * Suzanne Hunter (Front-end: Bootstrap, CSS, Colors)
 * Alex Kluger (Back-end: Form validation and Yelp API AJAX calls)
 * Kevin Bray (Front and Back-end: Moment and presentation powerpoint)
-* Ize Imai (Back-end: TomTom SDK, Leaflet.js, math for distance calculation, Firebase clearing and pushing to local storage)
+* Ize Imai (Back-end: TomTom SDK, Leaflet.js, Math for distance calculation, Firebase clearing and pushing to local storage)
 
 In this forked version, I plan to use Node.js to hide my API keys rather than post them in GitHub. I would like to also make the student selection page/map more intuitive by making the icon clicks link to radio buttons or better yet, remove the table entirely so the selection can be made within the map.
