@@ -1,6 +1,7 @@
 # Study Buddy
 
 https://izeimai.github.io/Project-One/
+https://izeimai.github.io/StudyBuddy/
 
 ### This is a webapp to help students streamline the process of organizing study meetups.
 
