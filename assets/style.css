@@ -5,15 +5,13 @@ body {
 .jumbotron_edge {
     border-radius: 0!important;
 }
+
 .jumbotron_icyblueback {
     background-color: #d0e0e2;
 }
 
 .fredericka{
     font-family: 'Fredericka the Great', cursive;
-}
-.ptserif{
-    font-family: 'PT Serif', serif;
 }
 
 /* button */
